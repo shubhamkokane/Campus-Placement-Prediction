@@ -12,7 +12,7 @@ Over here the ".ipynb" file along with the dataset and the detailed study report
 1) Our model may not achieve the best accuracy(fiddling with the various parameters may enhance it)
 2) This project was made during the third year of our undergrad.
 
-## Team Members:-
+## Team Members :-
 
 1) Shubham Kokane(myself)
 2) Sumeet Hande
